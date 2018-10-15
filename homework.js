@@ -13,6 +13,8 @@ const declareMurderer = function() {
 const verdict = declareMurderer();
 console.log(verdict);
 
+// the murderer is miss Scarlet
+
 // number 2
 
 const murderer = 'Professor Plum';
@@ -29,6 +31,8 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 
+// the murderer is Professor Plum
+
 // number 3
 
 let murderer = 'Professor Plum';
@@ -44,6 +48,9 @@ console.log('First Verdict: ', firstVerdict);
 const secondVerdict = `The murderer is ${murderer}.`;
 console.log('Second Verdict: ', secondVerdict);
 
+// first verdict Mrs Peacock
+// second verdict Professor Plum
+
 // number 4
 
 let suspectOne = 'Miss Scarlet';
@@ -58,6 +65,8 @@ const declareAllSuspects = function() {
 const suspects = declareAllSuspects();
 console.log(suspects);
 console.log(`Suspect three is ${suspectThree}.`);
+
+// suspects are: miss Scalret, Prof. Plum, Colonel Mustard
 
 //  number 5
 
@@ -78,6 +87,8 @@ const declareWeapon = function() {
 changeWeapon('Revolver');
 const verdict = declareWeapon();
 console.log(verdict);
+
+// the weapon is the Revolver
 
 // number 6
 
@@ -100,6 +111,8 @@ const declareMurderer = function () {
 changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
+
+// the murderer is Mrs White
 
 // number 7
 
@@ -128,6 +141,8 @@ const declareMurderer = function() {
 changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
+
+// the murderer is Mr Green
 
 // number 8
 
@@ -166,6 +181,8 @@ changeScenario();
 const verdict = declareWeapon();
 console.log(verdict);
 
+// the weapon is candle stick
+
 // number 9
 
 let murderer = 'Professor Plum';
@@ -180,3 +197,5 @@ const declareMurderer = function() {
 
 const verdict = declareMurderer();
 console.log(verdict);
+
+// the murder is Mrs. Peacock
