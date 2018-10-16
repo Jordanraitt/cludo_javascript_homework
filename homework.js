@@ -198,4 +198,4 @@ const declareMurderer = function() {
 const verdict = declareMurderer();
 console.log(verdict);
 
-// the murder is Mrs. Peacock
+// the murder is Professor Plum
